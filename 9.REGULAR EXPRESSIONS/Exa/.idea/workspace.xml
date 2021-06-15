@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f1a5f69-f492-4803-bf01-36f223e9ef45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="236" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kpD5sMrV9cjgqCiS89DOp7f6JP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.WinningTicket">
+    <configuration name="ExtractEmails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtractEmails" />
+      <module name="Exa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostOffice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PostOffice" />
+      <module name="Exa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RageQuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RageQuit" />
+      <module name="Exa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SantasSecretHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SantasSecretHelper" />
+      <module name="Exa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WinningTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WinningTicket" />
+      <module name="Exa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WinningTicket" />
+        <item itemvalue="Application.RageQuit" />
+        <item itemvalue="Application.PostOffice" />
+        <item itemvalue="Application.SantasSecretHelper" />
+        <item itemvalue="Application.ExtractEmails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f1a5f69-f492-4803-bf01-36f223e9ef45" name="Default Changelist" comment="" />
+      <created>1606388458928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606388458928</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" width="814" height="728" key="#Intentions" timestamp="1606518954178">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" width="814" height="728" key="#Intentions/0.0.1536.864@0.0.1536.864" timestamp="1606518954178" />
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1606579995376">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1606579995376" />
+    <state x="681" y="185" width="442" height="493" key="#xdebugger.XInspectDialog" timestamp="1606685017389">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="681" y="185" width="442" height="493" key="#xdebugger.XInspectDialog/0.0.1536.864@0.0.1536.864" timestamp="1606685017389" />
+    <state width="403" height="438" key="DebuggerActiveHint" timestamp="1606519359632">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="403" height="438" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1606519359632" />
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1606784259306">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1606784259306" />
+    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1606924947019">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606924947019" />
+    <state width="1537" height="231" key="GridCell.Tab.0.bottom" timestamp="1606823281981">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="231" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606823281981" />
+    <state width="1537" height="231" key="GridCell.Tab.0.center" timestamp="1606823281981">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="231" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606823281981" />
+    <state width="1537" height="231" key="GridCell.Tab.0.left" timestamp="1606823281981">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="231" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606823281981" />
+    <state width="1537" height="231" key="GridCell.Tab.0.right" timestamp="1606823281981">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="231" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606823281981" />
+    <state width="1537" height="286" key="GridCell.Tab.1.bottom" timestamp="1606782439541">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="286" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606782439541" />
+    <state width="1537" height="286" key="GridCell.Tab.1.center" timestamp="1606782439541">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="286" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1606782439541" />
+    <state width="1537" height="286" key="GridCell.Tab.1.left" timestamp="1606782439541">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="286" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1606782439541" />
+    <state width="1537" height="286" key="GridCell.Tab.1.right" timestamp="1606782439541">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="286" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1606782439541" />
+    <state x="209" y="53" key="new project wizard" timestamp="1606924949079">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="53" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1606924949079" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Furniture.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Race.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SoftUniBarIncome.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StarEnigma.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SantasSecretHelper.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PostOffice.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RageQuit.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Exa$WinningTicket.ic" NAME="WinningTicket Coverage Results" MODIFIED="1606782337740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Exa$Race.ic" NAME="Race Coverage Results" MODIFIED="1606519879678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Exa$RageQuit.ic" NAME="RageQuit Coverage Results" MODIFIED="1606775140091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Exa$SoftUniBarIncome.ic" NAME="SoftUniBarIncome Coverage Results" MODIFIED="1606574547568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Exa$StarEnigma.ic" NAME="StarEnigma Coverage Results" MODIFIED="1606592463525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Exa$SantasSecretHelper.ic" NAME="SantasSecretHelper Coverage Results" MODIFIED="1606685479475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

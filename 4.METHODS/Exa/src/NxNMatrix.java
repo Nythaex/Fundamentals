@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class NxNMatrix {
+    public static void main(String[] args) {
+        Scanner scanner=new Scanner(System.in);
+        int num=Integer.parseInt(scanner.nextLine());
+        for (int i = 1; i <=num ; i++) {
+            for (int c = 1; c <= num; c++) {
+                System.out.print(num+" ");
+            }
+            System.out.println();
+        }
+    }
+}
